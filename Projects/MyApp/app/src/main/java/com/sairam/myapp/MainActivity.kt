@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val graph: GraphView = findViewById<GraphView>(R.id.graph)
+        //graph.gridLabelRenderer.verticalAxisTitle = ""
         series = LineGraphSeries(arrayOf(
             DataPoint(0.0,1.0),
             DataPoint(1.0,5.0),

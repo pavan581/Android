@@ -549,6 +549,7 @@ dimen compat_button_padding_vertical_material
 dimen compat_control_corner_material
 dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
+dimen default_margin
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
 dimen highlight_alpha_material_colored
@@ -982,6 +983,7 @@ string abc_toolbar_collapse_description
 string app_name
 string search_menu_title
 string status_bar_notification_info_overflow
+string tools_textView
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

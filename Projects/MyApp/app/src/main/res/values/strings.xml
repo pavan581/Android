@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="tools_textView">BatterPercentage:100.0</string>
 </resources>
